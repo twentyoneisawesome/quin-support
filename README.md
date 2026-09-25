@@ -1,6 +1,6 @@
-# Quin — Support & Privacy
+# Landy Money — Support & Privacy
 
-Public support and privacy pages for the **Quin** personal finance app, hosted on GitHub Pages.
+Public support and privacy pages for the **Landy Money** personal finance app, hosted on GitHub Pages.
 
 ## Live URLs
 
